@@ -5,6 +5,7 @@
 *.dylib
 *.log
 *.7z
+*.db
 
 *.test
 
